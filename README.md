@@ -1,6 +1,6 @@
-# ADWAITH
--HELLO
--COMPUTER SCIENCE 
+#ADWAITH, #leetcode, #vjec, #string
+#HELLO
+#COMPUTER SCIENCE 
 #SKILLS
--PYTHON 
--C
+#PYTHON 
+#C
