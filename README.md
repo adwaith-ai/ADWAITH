@@ -1,6 +1,1 @@
-#ADWAITH, #leetcode, #vjec, #string
-#HELLO
-#COMPUTER SCIENCE 
-#SKILLS
-#PYTHON 
-#C
+ #ADWAITH, #leetcode, #vjec, #reverse string,#reverse integer,#computerscience,#c,#ython
